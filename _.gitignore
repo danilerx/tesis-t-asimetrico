@@ -1,0 +1,15 @@
+# Datos (CASEN pesa cientos de MB y no se redistribuye)
+data/*
+!data/.gitkeep
+*.sav
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Sistema
+.DS_Store
+Thumbs.db
